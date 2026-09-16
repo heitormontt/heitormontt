@@ -36,4 +36,4 @@ I am a tech-passionate developer focused on creating efficient solutions and exp
 ## How to reach me
 
 * E-mail: [heitormont.unb@gmail.com](mailto:heitormont.unb@gmail.com)
-* LinkedIn: [Connect with me on LinkedIn](PLACE_YOUR_LINK_HERE)
+* LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/heitor-monteiro-60b386380/)
