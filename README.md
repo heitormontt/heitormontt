@@ -33,9 +33,3 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 * E-mail: [heitormont.unb@gmail.com](mailto:heitormont.unb@gmail.com)
 * LinkedIn: [Conecte-se comigo no LinkedIn](COLOQUE_SEU_LINK_AQUI)
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=false&theme=radium" alt="Estatísticas do GitHub de Heitor" />
-</div>
