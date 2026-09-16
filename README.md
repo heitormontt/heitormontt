@@ -8,6 +8,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ## Sobre mim
 
+* Formado no Colégio Marista Champagnat.
 * Graduando na Universidade de Brasília (UnB), aprofundando conhecimentos em ciência da computação, álgebra e economia.
 * Tenho forte interesse em Desenvolvimento Web, Programação Orientada a Objetos e arquitetura de software.
 
