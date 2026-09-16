@@ -1,5 +1,5 @@
-[![English](https://img.shields.io/badge/ENGLISH-1A237E?style=for-the-badge&logo=googletranslate&logoColor=white)](README-en.md)
-[![Portuguese](https://img.shields.io/badge/PORTUGU%C3%8AS-24292F?style=for-the-badge&logo=googletranslate&logoColor=white)](README.md)
+[![English](https://img.shields.io/badge/ENGLISH-1A237E?style=for-the-badge&logo=googletranslate&logoColor=white)](README.md)
+[![Portuguese](https://img.shields.io/badge/PORTUGU%C3%8AS-24292F?style=for-the-badge&logo=googletranslate&logoColor=white)](README-port.md)
 ---
 
 # Hello, I'm Heitor Monteiro!
