@@ -1,4 +1,4 @@
-[![Português](https://img.shields.io/badge/PORTUGU%C3%8AS-1A1A1A?style=for-the-badge&logo=googletranslate&logoColor=white)](README.md)
+[![Português](https://img.shields.io/badge/PORTUGU%C3%8AS-1A237E?style=for-the-badge&logo=googletranslate&logoColor=white)](README.md)
 [![Inglês](https://img.shields.io/badge/ENGLISH-24292F?style=for-the-badge&logo=googletranslate&logoColor=white)](README-en.md)
 # Olá, eu sou o Heitor Monteiro!
 
