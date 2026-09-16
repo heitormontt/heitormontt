@@ -34,4 +34,4 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ## Como me encontrar
 
 * E-mail: [heitormont.unb@gmail.com](mailto:heitormont.unb@gmail.com)
-* LinkedIn: [Conecte-se comigo no LinkedIn](COLOQUE_SEU_LINK_AQUI)
+* LinkedIn: [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/heitor-monteiro-60b386380/)
