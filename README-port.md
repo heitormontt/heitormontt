@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Heitor Monteiro!
 
-Estudante na Universidade de Brasília (UnB) | AI Lab
+Estudante de graduação em engenharia de software na Universidade de Brasília (UnB) | AI Lab
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e explorar novas áreas da computação. Atualmente, divido meu tempo entre os estudos na UnB, pesquisas no AI Lab e o desenvolvimento de projetos de software.
 
