@@ -1,37 +1,39 @@
-[![Português](https://img.shields.io/badge/PORTUGU%C3%8AS-1A237E?style=for-the-badge&logo=googletranslate&logoColor=white)](README.md)
-[![Inglês](https://img.shields.io/badge/ENGLISH-24292F?style=for-the-badge&logo=googletranslate&logoColor=white)](README-en.md)
-# Olá, eu sou o Heitor Monteiro!
+[![English](https://img.shields.io/badge/ENGLISH-1A237E?style=for-the-badge&logo=googletranslate&logoColor=white)](README-en.md)
+[![Portuguese](https://img.shields.io/badge/PORTUGU%C3%8AS-24292F?style=for-the-badge&logo=googletranslate&logoColor=white)](README.md)
+---
 
-Estudante na Universidade de Brasília (UnB) | AI Lab
+# Hello, I'm Heitor Monteiro!
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e explorar novas áreas da computação. Atualmente, divido meu tempo entre os estudos na UnB, pesquisas no AI Lab e o desenvolvimento de projetos de software.
+Undergraduate student in software engineering at the University of Brasília (UnB) | AI Lab
+
+I am a tech-passionate developer focused on creating efficient solutions and exploring new areas of computing. Currently, I divide my time between my studies at UnB, research at the AI Lab, and software development projects.
 
 ---
 
-## Sobre mim
+## About me
 
-* Formado no Colégio Marista Champagnat.
-* Graduando na Universidade de Brasília (UnB), aprofundando conhecimentos em ciência da computação, álgebra e economia.
-* Tenho forte interesse em Desenvolvimento Web, Programação Orientada a Objetos e arquitetura de software.
-
----
-
-## Tecnologias e Ferramentas
-
-* Linguagens: C | Python | JavaScript | HTML | CSS
-* Desenvolvimento: Web Development | POO (Programação Orientada a Objetos)
-* Ferramentas & Ambiente: Git | GitHub
+* Graduated from Colégio Marista Champagnat.
+* Undergraduate student at the University of Brasília (UnB), deepening my knowledge in computer science, algebra, and economics.
+* I have a strong interest in Web Development, Object-Oriented Programming (OOP), and software architecture.
 
 ---
 
-## O que tenho construído
+## Technologies and Tools
 
-* Agenda UnB: Desenvolvimento de aplicação web focada no ecossistema universitário.
-* Projetos Colaborativos: Contribuições ativas em projetos técnicos no GitHub, como Maker Foundation e Agenda UnB.
+* Languages: C | Python | JavaScript | HTML | CSS
+* Development: Web Development | OOP (Object-Oriented Programming)
+* Tools & Environment: Git | GitHub
 
 ---
 
-## Como me encontrar
+## What I've been building
+
+* Agenda UnB: Development of a web application focused on the university ecosystem.
+* Collaborative Projects: Active contributions to technical projects on GitHub, such as Maker Foundation and Agenda UnB.
+
+---
+
+## How to reach me
 
 * E-mail: [heitormont.unb@gmail.com](mailto:heitormont.unb@gmail.com)
-* LinkedIn: [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/heitor-monteiro-60b386380/)
+* LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/heitor-monteiro-60b386380/)
