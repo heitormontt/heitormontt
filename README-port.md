@@ -31,11 +31,11 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/heitormontt/agenda-unb">Agenda UnB</a></h3>
+      <h3><a href="https://github.com/unb-mds/2026-2-AgendaUnB.git">Agenda UnB</a></h3>
       <p>Agenda que reúne eventos do campus e prazos acadêmicos dos estudantes da UnB.</p>
       <p>Responsável pela modelagem do banco e pela autenticação: perfis criados por trigger, distinção entre estudante e professor validada no próprio PostgreSQL e políticas de Row Level Security.</p>
       <br />
-      <a href="https://github.com/heitormontt/agenda-unb">
+      <a href="https://github.com/unb-mds/2026-2-AgendaUnB.git">
         <img src="https://skillicons.dev/icons?i=react,vite,supabase,postgres" alt="Tecnologias Agenda UnB" />
       </a>
     </td>
