@@ -31,11 +31,11 @@ I am a tech-passionate developer focused on creating efficient solutions and exp
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/heitormontt/agenda-unb">Agenda UnB</a></h3>
+      <h3><a href="https://github.com/unb-mds/2026-2-AgendaUnB.git">Agenda UnB</a></h3>
       <p>A schedule that gathers campus events and academic deadlines for UnB students.</p>
       <p>Responsible for database modeling and authentication: profiles created by triggers, distinction between student and professor validated natively in PostgreSQL, and Row Level Security policies.</p>
       <br />
-      <a href="https://github.com/heitormontt/agenda-unb">
+      <a href="https://github.com/unb-mds/2026-2-AgendaUnB.git">
         <img src="https://skillicons.dev/icons?i=react,vite,supabase,postgres" alt="Agenda UnB Technologies" />
       </a>
     </td>
