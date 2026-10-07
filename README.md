@@ -26,11 +26,30 @@ I am a tech-passionate developer focused on creating efficient solutions and exp
 
 ---
 
-## What I've been building
+## Featured Projects
 
-* Agenda UnB: Development of a web application focused on the university ecosystem.
-* Collaborative Projects: Active contributions to technical projects on GitHub, such as Maker Foundation and Agenda UnB.
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/heitormontt/agenda-unb">Agenda UnB</a></h3>
+      <p>A schedule that gathers campus events and academic deadlines for UnB students.</p>
+      <p>Responsible for database modeling and authentication: profiles created by triggers, distinction between student and professor validated natively in PostgreSQL, and Row Level Security policies.</p>
+      <br />
+      <a href="https://github.com/heitormontt/agenda-unb">
+        <img src="https://skillicons.dev/icons?i=react,vite,supabase,postgres" alt="Agenda UnB Technologies" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/heitormontt/Semana-05-Makers-Docker">Containerization and CI/CD</a></h3>
+      <p>Django and Next.js application taken from development to production in containers.</p>
+      <p>Multi-stage images with non-root users, reverse proxy with HTTPS, and a pipeline with independent lint, build, and test tracks, publishing to the GitHub Container Registry.</p>
+      <br />
+      <a href="https://github.com/heitormontt/Semana-05-Makers-Docker">
+        <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,django,nextjs" alt="Containerization and CI/CD Technologies" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## How to reach me
